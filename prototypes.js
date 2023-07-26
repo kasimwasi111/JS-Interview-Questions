@@ -1,3 +1,5 @@
+// Q1: What is Prototypes and Prototypes Inheritence?
+
 let users = {
   getFullName: function () {
     return this.firstName + " " + this.lastName;
